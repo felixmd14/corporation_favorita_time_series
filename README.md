@@ -48,9 +48,9 @@ This project requires the following libraries:
 
 `pip install -r requirements.txt`
 
-3. Run the sales_forecasting.ipynb notebook:
+3. Run the Time_Series_Regression_Project.ipynb:
 
-jupyter notebook `sales_forecasting.ipynb`
+jupyter notebook `Time_Series_Regression_Project.ipynb`
 
 4. Follow the instructions in the notebook to explore the data, train the regression model, validate the model, and forecast future sales.
 
