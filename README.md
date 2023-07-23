@@ -40,9 +40,9 @@ This project requires the following libraries:
 ### Usage
 1. Clone this repository:
 
-`git clone https://github.com/yourusername/regression-project-store-sales.git`
+`git clone https://github.com/yourusername/corporation_favorita_time_series.git`
 
-`cd regression-project-store-sales`
+`cd corporation_favorita_time_series`
 
 2.Install the required libraries:
 
